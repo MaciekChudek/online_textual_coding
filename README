@@ -1,0 +1,8 @@
+A web-based system for allowing multiple coders to "code" arbitrary binary choices about a database of passages they read, and for an additional "master coder" to resolve disputes.
+
+Used for coding historical texts in Slingerland & Chudek, 2011, Cognitve Science.
+
+Some additional SQL code available on request, for generating the tables and extracting well-formatted.
+
+
+Language: php, javascript, sql
